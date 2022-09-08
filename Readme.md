@@ -71,7 +71,6 @@
 <a href = "https://www.linkedin.com/in/muskan-gupta01/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sooraj_8809/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
- -->
 </p>
 
 ## ❤ Views and Followers
