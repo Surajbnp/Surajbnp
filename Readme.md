@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://benevolent-gnome-5b7f4c.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[Suraj Gupta Portfolio](https://benevolent-gnome-5b7f4c.netlify.app/)**
 
 - 📫 How to reach me *surajguptabnp14c@gmail.com*
 
@@ -45,7 +45,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/mayra111/github-readme-stats"><img alt="Muskan Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayra111&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Surajbnp/github-readme-stats"><img alt="Suraj Kumar Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Surajbnp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
