@@ -39,7 +39,7 @@
 
 ## 📊 My Github Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Surajbnp&show_icons=true&locale=en&layout=compact" alt="Suraj Kumar Gupta" /></p>
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Surajbnp&show_icons=true&locale=en&layout=compact" alt="Suraj Kumar Gupta" /></p>
 
 
   <br/>
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/mayra111/github-readme-activity-graph"><img alt="Muskan Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mayra111&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Surajbnp/github-readme-activity-graph"><img alt="Suraj Kumar Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surajbnp&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
