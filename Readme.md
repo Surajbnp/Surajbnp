@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *surajguptabnp14c@gmail.com*
 
-- 📄 Find my resume here [https://drive.google.com/file/d/1pcWY9Pxno3ZOK0GJetlEaozx_Z4EhhOi/view](Suraj Gupta Resume)
+- 📄 Find my resume here  **[Suraj Gupta Resume](https://drive.google.com/file/d/1pcWY9Pxno3ZOK0GJetlEaozx_Z4EhhOi/view)**
 
 - ⚡ Fun fact *I cannot live without Internet.*
 
