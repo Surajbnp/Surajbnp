@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *surajguptabnp14c@gmail.com*
 
-- 📄 Find my resume here  **[Suraj Gupta Resume](https://drive.google.com/file/d/1pcWY9Pxno3ZOK0GJetlEaozx_Z4EhhOi/view)**
+- 📄 Find my resume here  **[Suraj Gupta Resume](https://drive.google.com/file/d/14WCF_D3K_g2D9wONY3USdkZURwBxNe9T/view?usp=drivesdk)**
 
 - ⚡ Fun fact *Interested in Art's & Crafts .*
 
