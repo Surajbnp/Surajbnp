@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[Suraj Gupta Portfolio](https://benevolent-gnome-5b7f4c.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[Suraj Gupta Portfolio](https://surajgupta-portfolio.netlify.app/)**
 
 - 📫 How to reach me *surajguptabnp14c@gmail.com*
 
