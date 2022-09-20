@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Kumar Gupta</h1>
-<h3 align="center">Learning MERN stack web development at Masai School, Bangalore, India.</h3>
+<h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things✌. I focuses on writing clean, elegant and efficient code ✨.</h3>
 
 ## 🙋‍♂️ About Me
 
