@@ -28,6 +28,18 @@
 <br/>
 
 
+## Connect with me:
+
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/suraj-kumar-gupta-058191222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/sooraj_8809/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
+<br />
+
+
 ## 📊 My Github Stats
 
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Surajbnp&show_icons=true&locale=en&layout=compact" alt="Suraj Kumar Gupta" /></p>
@@ -55,14 +67,6 @@
 <br/>
 <br/>
 
-## Connect with me:
-
-<p align="center">
-
-<a href = "https://www.linkedin.com/in/suraj-kumar-gupta-058191222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sooraj_8809/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
 
 ## ❤ Views and Followers
 
